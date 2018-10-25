@@ -1,0 +1,58 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.h-100 {
+    height: 100%;
+}
+.w-100 {
+    width: 100%;
+}
+.form-input {
+    border: none;
+}
+input.form-input {
+    font-size: 25px;
+    border-bottom: 1px solid black;
+    text-decoration: none;
+}
+.btn {
+    border-radius: 3px;
+    border: none;
+    padding: 10px;
+}
+textarea.form-input {
+    font-size: 18px;
+    height: 80%;
+}
+.note {
+    max-height: 100px;
+    padding: 5px;
+    border-bottom: 1px solid black;
+}
+.border-right {
+    border-right: 1px solid black;
+}
+.text-center {
+    text-align: center;
+}
+nav {
+    background: #3333bb;
+    color: white;
+    padding: 10px;
+}
+.w-30 {
+    height: 100%;
+    width: 28%;
+    float: left;
+}
+.w-70 {
+    height: 100%;
+    width: 71%;
+    float: right;
+}
+.float-right {
+    float: right;
+}
